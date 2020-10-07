@@ -1,6 +1,6 @@
 # NinjaScanner signatures (free)
 
-These are signatures for [NinjaScanner](https://nintechnet.com/ninjascanner/) that I have created and which I provide for free and without any support.
+These are signatures for [NinjaScanner](https://nintechnet.com/ninjascanner/) that I have created. I provide these for free and without any support.
 
 ## Installation
 
